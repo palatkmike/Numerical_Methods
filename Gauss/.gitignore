@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env/
+.venv/
+
+# nvim swap
+*.swp
+*.swo
